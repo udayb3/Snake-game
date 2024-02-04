@@ -1,7 +1,7 @@
 # Snake Game
 - ## The game is made with the help of turtle module from the Tkinter library of python.
-- ## __Dependencies invloved__
-    - For _Windows_:
+- ## __Dependencies involved__
+    - ### For _Windows_:
         - python runtime environment
         - Tkinter module
     - ### For _Linux_:
